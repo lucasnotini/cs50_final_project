@@ -1,0 +1,6 @@
+pandas==2.1.4
+yfinance==0.2.35
+ipython==8.19.0
+QuantStats==0.0.62
+pytest==7.4.4
+
